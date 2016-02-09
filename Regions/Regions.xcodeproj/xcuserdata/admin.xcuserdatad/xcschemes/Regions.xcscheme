@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BB61F54E1C68DFBB00575073"
-               BuildableName = "SpriteKitTest.app"
-               BlueprintName = "SpriteKitTest"
-               ReferencedContainer = "container:SpriteKitTest.xcodeproj">
+               BlueprintIdentifier = "842C6DCA1C6A7E5F007051AA"
+               BuildableName = "Regions.app"
+               BlueprintName = "Regions"
+               ReferencedContainer = "container:Regions.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BB61F56C1C68DFBC00575073"
-               BuildableName = "SpriteKitTestTests.xctest"
-               BlueprintName = "SpriteKitTestTests"
-               ReferencedContainer = "container:SpriteKitTest.xcodeproj">
+               BlueprintIdentifier = "842C6DE21C6A7E5F007051AA"
+               BuildableName = "RegionsTests.xctest"
+               BlueprintName = "RegionsTests"
+               ReferencedContainer = "container:Regions.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BB61F5771C68DFBC00575073"
-               BuildableName = "SpriteKitTestUITests.xctest"
-               BlueprintName = "SpriteKitTestUITests"
-               ReferencedContainer = "container:SpriteKitTest.xcodeproj">
+               BlueprintIdentifier = "842C6DED1C6A7E5F007051AA"
+               BuildableName = "RegionsUITests.xctest"
+               BlueprintName = "RegionsUITests"
+               ReferencedContainer = "container:Regions.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BB61F54E1C68DFBB00575073"
-            BuildableName = "SpriteKitTest.app"
-            BlueprintName = "SpriteKitTest"
-            ReferencedContainer = "container:SpriteKitTest.xcodeproj">
+            BlueprintIdentifier = "842C6DCA1C6A7E5F007051AA"
+            BuildableName = "Regions.app"
+            BlueprintName = "Regions"
+            ReferencedContainer = "container:Regions.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BB61F54E1C68DFBB00575073"
-            BuildableName = "SpriteKitTest.app"
-            BlueprintName = "SpriteKitTest"
-            ReferencedContainer = "container:SpriteKitTest.xcodeproj">
+            BlueprintIdentifier = "842C6DCA1C6A7E5F007051AA"
+            BuildableName = "Regions.app"
+            BlueprintName = "Regions"
+            ReferencedContainer = "container:Regions.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BB61F54E1C68DFBB00575073"
-            BuildableName = "SpriteKitTest.app"
-            BlueprintName = "SpriteKitTest"
-            ReferencedContainer = "container:SpriteKitTest.xcodeproj">
+            BlueprintIdentifier = "842C6DCA1C6A7E5F007051AA"
+            BuildableName = "Regions.app"
+            BlueprintName = "Regions"
+            ReferencedContainer = "container:Regions.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
